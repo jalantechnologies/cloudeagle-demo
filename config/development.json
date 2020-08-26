@@ -1,0 +1,8 @@
+{
+  "logger": {
+    "console": true
+  },
+  "www": {
+    "port": "8000"
+  }
+}

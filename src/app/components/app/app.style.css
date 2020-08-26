@@ -1,0 +1,15 @@
+.layout {
+  height: 100vh;
+}
+.ant-layout-header {
+  background-color: #fff;
+}
+.content {
+  padding: 0 50px;
+}
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  margin: 36px 0;
+  height: calc(100vh - 160px);
+}
